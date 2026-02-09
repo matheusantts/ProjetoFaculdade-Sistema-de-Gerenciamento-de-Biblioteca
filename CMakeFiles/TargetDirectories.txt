@@ -1,0 +1,3 @@
+C:/Users/MATHEUS/Documents/GitHub/ProjetoFaculdade-Sistema-de-Gerenciamento-de-Biblioteca/CMakeFiles/ProjetoAtividadeMapa.dir
+C:/Users/MATHEUS/Documents/GitHub/ProjetoFaculdade-Sistema-de-Gerenciamento-de-Biblioteca/CMakeFiles/edit_cache.dir
+C:/Users/MATHEUS/Documents/GitHub/ProjetoFaculdade-Sistema-de-Gerenciamento-de-Biblioteca/CMakeFiles/rebuild_cache.dir
